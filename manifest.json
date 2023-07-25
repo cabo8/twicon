@@ -1,0 +1,14 @@
+{
+  "name": "Twicon",
+  "manifest_version": 3,
+    "version": "0.0",
+    "description": "X -> 🐤\r\npiyopiyo",
+    "permissions": ["activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["*://*.twitter.com/*"],
+        "js": ["twicon.js"],
+        "run_at": "document_idle"
+      }
+    ]
+}
