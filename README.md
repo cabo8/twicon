@@ -33,5 +33,8 @@ TwitterのfaviconとアイコンをXから鳥に戻すやつ。
 	</details>
 
 1. ### `twicon`がオンになっていることを確認
-   ![Chromeの拡張機能の画像](./3c.png "Chrome")
-   ![Firefoxの拡張機能の画像](./3f.png "Firefox")
+	* Chrome  
+	![Chromeの拡張機能の画像](./3c.png "Chrome")
+
+   	* Firefox  
+	![Firefoxの拡張機能の画像](./3f.png "Firefox")
