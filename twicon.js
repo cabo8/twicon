@@ -41,8 +41,7 @@ const observer = new MutationObserver(async (mutations) => {
             // Faviconを変更
             var link = document.querySelector('link[rel="shortcut icon"]');
             if (link) {
-                let time = new Date().getTime();
-                link.href = `//abs.twimg.com/favicons/twitter.2.ico?${time}`;
+                link.href = `//abs.twimg.com/favicons/twitter.2.ico`;
             }
 
             // SVG要素が見つかったら、他の変更を見ない
