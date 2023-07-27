@@ -1,5 +1,5 @@
 # twicon
-TwitterのfaviconとアイコンをXから鳥に戻すやつ。
+TwitterのfaviconとアイコンをXから鳥に戻す拡張機能
 
 ## 使用方法
 
